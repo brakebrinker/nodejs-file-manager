@@ -4,11 +4,11 @@
   "description": "This repository is the part of nodejs-assignments https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brakebrinker/nodejs-file-manager"
     "url": "git+https://github.com/brakebrinker/nodejs-file-manager"
   },
   "keywords": ["nodejs", "file-manager", "brakebrinker"],
